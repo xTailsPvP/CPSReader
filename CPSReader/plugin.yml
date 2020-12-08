@@ -1,0 +1,5 @@
+name: CPSReader
+author: xTailsPvP
+version: 1.0
+main: de.tails.cpsreader.main.CPSReader
+api-version: 1.8
